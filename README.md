@@ -2,14 +2,15 @@
 
 </br> I am Ashutosh, Nice to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
  
-I am Ashutosh Shankarwar, currently pursuing my B.Tech in Electronics & Telecommunication from [GECA](https://www.geca.ac.in/). I have intense interest in Web Development 
+I am Ashutosh Shankarwar, currently pursuing my B.Tech in Electronics & Telecommunication from [GECA](https://www.geca.ac.in/). I have intense interest in Web Development
 
- <a href="https://github.com/ashutosh2466/">
-  <img align="left" alt="Github Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
-</a>
-<a href="mailto:ashutoshshankarwar24@gmail.com">
-  <img align="left" alt="Mail Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
+
+   <a href="https://www.linkedin.com/in/ashutosh-shankarwar-475492185/">
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+   </a> <span>
+    
+ </span>
+
 
 
 
